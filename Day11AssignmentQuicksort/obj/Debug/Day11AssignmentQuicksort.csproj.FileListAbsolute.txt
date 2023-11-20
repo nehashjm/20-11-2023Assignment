@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\bin\Debug\Day11AssignmentQuicksort.exe.config
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\bin\Debug\Day11AssignmentQuicksort.exe
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\bin\Debug\Day11AssignmentQuicksort.pdb
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\obj\Debug\Day11AssignmentQuicksort.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\obj\Debug\Day11AssignmentQuicksort.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\obj\Debug\Day11AssignmentQuicksort.exe
+D:\mphasis Simplilearn\Day11\Day11AssignmentQuicksort\Day11AssignmentQuicksort\obj\Debug\Day11AssignmentQuicksort.pdb
